@@ -11,7 +11,7 @@ I am the **Chair of IAPR Technical Committee 19 — Computer Vision for Cultural
 
 In August 2026, I received an **IAPR Distinction Award**, together with Vice Chair Guillaume Caron, in recognition of our strategic leadership of TC19.
 
-{{< figure src="/images/iapr-award.jpg" alt="IAPR Distinction Award at ICPR 2026 in Lyon" caption="IAPR Distinction Award · ICPR 2026, Lyon" class="content-photo wide-photo" >}}
+{{< figure src="../images/iapr-award.jpg" alt="IAPR Distinction Award at ICPR 2026 in Lyon" caption="IAPR Distinction Award · ICPR 2026, Lyon" class="content-photo wide-photo" >}}
 
 I am also affiliated with **CINI-AIIS**, **CITEL**, **CEDITH** and the **Gruppo di Ingegneria Informatica (GII)**.
 

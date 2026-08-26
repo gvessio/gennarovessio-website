@@ -85,4 +85,4 @@ He also enjoyed the fact that he had a connection to Paul Erdős. As one of Ales
 
 **P. Erdős → S. Marcus → G. Păun → P. Mussio → A. Bianchi → G. Vessio**
 
-{{< figure src="/images/bianchi-vienna.jpg" alt="Alessandro Bianchi at St. Stephen’s Cathedral in Vienna" caption="Vienna, during our first conference together." class="content-photo" >}}
+{{< figure src="../images/bianchi-vienna.jpg" alt="Alessandro Bianchi at St. Stephen’s Cathedral in Vienna" caption="Vienna, during our first conference together." class="content-photo" >}}

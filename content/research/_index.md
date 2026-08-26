@@ -55,4 +55,4 @@ I firmly believe that life is shaped by key moments—sometimes driven by uncons
 
 Looking back, that moment marked the beginning of a new chapter in my academic journey. I still like to think that the best is yet to come.
 
-{{< figure src="/images/sfla-2018.jpg" alt="SFLA 2018 Best Presentation Award" caption="SFLA 2018 — a small award, a book by Lotfi Zadeh, and an unexpectedly important turning point." class="content-photo sfla-photo" >}}
+{{< figure src="../images/sfla-2018.jpg" alt="SFLA 2018 Best Presentation Award" caption="SFLA 2018 — a small award, a book by Lotfi Zadeh, and an unexpectedly important turning point." class="content-photo sfla-photo" >}}
