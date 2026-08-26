@@ -1,0 +1,42 @@
+baseURL: "https://www.gennarovessio.com/"
+languageCode: "en-us"
+title: "Gennaro Vessio"
+disableKinds:
+  - taxonomy
+  - term
+
+params:
+  description: "Academic website of Gennaro Vessio, Assistant Professor of Computer Science at the University of Bari Aldo Moro."
+  author: "Gennaro Vessio"
+  email: "gennaro.vessio@uniba.it"
+  scholar: "https://scholar.google.com/citations?hl=en&user=KyQe9EgAAAAJ"
+  scopus: "https://www.scopus.com/authid/detail.uri?authorId=56407135000"
+  orcid: "https://orcid.org/0000-0002-0883-2691"
+  researchgate: "https://www.researchgate.net/profile/Gennaro-Vessio"
+  github: "https://github.com/gvessio"
+  linkedin: "https://www.linkedin.com/in/gennaro-vessio"
+  dblp: "https://dblp.org/pid/151/5820"
+
+menu:
+  main:
+    - name: "Home"
+      pageRef: "/"
+      weight: 10
+    - name: "Research"
+      pageRef: "/research"
+      weight: 20
+    - name: "Publications"
+      pageRef: "/publications"
+      weight: 30
+    - name: "Projects"
+      pageRef: "/projects"
+      weight: 40
+    - name: "Teaching"
+      pageRef: "/teaching"
+      weight: 50
+    - name: "Theses"
+      pageRef: "/theses"
+      weight: 60
+    - name: "Service"
+      pageRef: "/service"
+      weight: 70

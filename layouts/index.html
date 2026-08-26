@@ -1,0 +1,133 @@
+{{ define "main" }}
+<section class="home-intro">
+  <div class="container home-grid">
+    <div>
+      <p class="eyebrow">Assistant Professor</p>
+      <h1>Gennaro Vessio</h1>
+
+      <div class="intro-copy compact-intro">
+        <p>
+          University of Bari Aldo Moro · Department of Computer Science
+        </p>
+        <p>
+          Deep Learning · Computer Vision · Multimodal AI
+        </p>
+      </div>
+
+      <div class="profile-links" aria-label="Academic and professional profiles">
+        <a href="{{ site.Params.scholar }}" target="_blank" rel="noopener">Google Scholar ↗</a>
+        <a href="{{ site.Params.scopus }}" target="_blank" rel="noopener">Scopus ↗</a>
+        <a href="{{ site.Params.orcid }}" target="_blank" rel="noopener">ORCID ↗</a>
+        <a href="{{ site.Params.researchgate }}" target="_blank" rel="noopener">ResearchGate ↗</a>
+        <a href="{{ site.Params.github }}" target="_blank" rel="noopener">GitHub ↗</a>
+        <a href="{{ site.Params.linkedin }}" target="_blank" rel="noopener">LinkedIn ↗</a>
+        <a href="{{ site.Params.dblp }}" target="_blank" rel="noopener">DBLP ↗</a>
+      </div>
+    </div>
+
+    <aside class="profile-panel">
+      <img class="profile-photo" src="{{ "/images/profile.jpg" | relURL }}" alt="Portrait of Gennaro Vessio">
+    </aside>
+  </div>
+</section>
+
+<section class="home-section soft">
+  <div class="container section-grid">
+    <div>
+      <p class="section-kicker">About me</p>
+      <h2>A little less formal</h2>
+    </div>
+    <div class="section-copy about-copy">
+      <p>
+        👋 Welcome! I am an Assistant Professor (tenure-track) at the
+        <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica" target="_blank" rel="noopener">Department of Computer Science</a>,
+        University of Bari Aldo Moro, Italy, where I conduct research in deep learning and computer vision.
+        My work focuses on intelligent systems that can learn, perceive and reason from data, with applications
+        spanning e-health, drone vision and digital humanities, among other domains.
+      </p>
+      <p>
+        If you happen to visit the department, you'll usually find me either in my sixth-floor office or,
+        most often, in the <a href="https://cilab.di.uniba.it/" target="_blank" rel="noopener">CILAB lab</a> on the fourth floor, where the real magic happens. Every now and then,
+        I also make a strategic stop in Professor Giovanna Castellano's office, mainly to “borrow” a few
+        <em>taralli</em> and share them with whoever happens to be around!
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="container section-grid">
+    <div>
+      <p class="section-kicker">Research</p>
+      <h2>What I do</h2>
+    </div>
+    <div class="section-copy">
+      <p>
+        I work mainly on deep learning, computer vision and multimodal AI, with increasing
+        attention to efficient and trustworthy AI for real-world systems.
+      </p>
+      <p>
+        My research spans e-health, autonomous drones and digital humanities, among other domains.
+      </p>
+      <div class="inline-links">
+        <a href="{{ "/research/" | relURL }}">Research →</a>
+        <a href="{{ "/publications/" | relURL }}">Publications →</a>
+        <a href="{{ "/projects/" | relURL }}">Projects →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="home-section soft">
+  <div class="container section-grid">
+    <div>
+      <p class="section-kicker">Latest news</p>
+      <h2>Recent</h2>
+    </div>
+    <div class="news-list">
+      <article>
+        <time>Aug 2026</time>
+        <p>I received an <strong>IAPR Distinction Award</strong>, together with TC19 Vice Chair Guillaume Caron, in recognition of our strategic leadership of IAPR TC19. The award was presented at ICPR 2026 in Lyon!</p>
+      </article>
+      <article>
+        <time>May 2026</time>
+        <p>I was appointed <strong>Area Chair for NeurIPS 2026</strong>.</p>
+      </article>
+      <article>
+        <time>Feb 2025</time>
+        <p>I was appointed <strong>Chair of IAPR Technical Committee 19</strong> on Computer Vision for Cultural Heritage Applications.</p>
+      </article>
+      <article>
+        <time>Jan 2025</time>
+        <p>My first popular-science book, <a href="https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html" target="_blank" rel="noopener"><em>Intelligenza artificiale per curiosi: una mini-guida scientifica per tutti</em></a>, was published by Edizioni Dedalo.</p>
+      </article>
+      <article>
+        <time>Nov 2024</time>
+        <p>The <strong>VISTA</strong> project with the Italian Ministry of Infrastructure and Transport started, exploring the use of drones to improve roadside emergency response.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="container section-grid">
+    <div>
+      <p class="section-kicker">Students</p>
+      <h2>Theses & supervision</h2>
+    </div>
+    <div class="section-copy">
+      <p>
+        Students with a strong interest in AI, solid programming skills, and motivation for research
+        are welcome to work on their thesis under my supervision on one of our ongoing research topics.
+        Whenever possible, thesis projects may also be carried out in collaboration with local companies,
+        giving students the opportunity to combine academic work with hands-on experience through external internships.
+      </p>
+      <a class="small-link" href="{{ "/theses/" | relURL }}">Theses, resources & unsolicited advice →</a>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}

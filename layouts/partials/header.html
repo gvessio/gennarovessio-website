@@ -1,0 +1,15 @@
+<header class="site-header">
+  <div class="container nav-shell">
+    <a class="site-name" href="{{ "/" | relURL }}">Gennaro Vessio</a>
+
+    <button class="menu-toggle" aria-label="Toggle navigation" onclick="document.body.classList.toggle('menu-open')">
+      Menu
+    </button>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      {{ range site.Menus.main }}
+        <a href="{{ .URL }}" class="{{ if $.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>
