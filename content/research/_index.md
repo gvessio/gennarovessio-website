@@ -9,7 +9,7 @@ My research interests currently revolve around **deep learning, computer vision 
 
 This has gradually led me toward a broader research direction: **efficient and trustworthy AI for real-world systems**. I see efficiency and trustworthiness less as isolated topics than as properties that intelligent systems increasingly need in order to be genuinely useful.
 
-My main application domains include **e-health**, **drone vision and autonomous systems**, and **digital humanities / cultural heritage**. Over the years I have also worked on handwriting analysis, biometrics, knowledge graphs, explainable AI, probabilistic models and other topics—research careers are rarely straight lines!
+My main application domains include **e-health**, **drone vision and autonomous systems**, and **digital humanities / cultural heritage**. Over the years I have also worked on handwriting analysis, biometrics, knowledge graphs, probabilistic models, formal methods and other topics—research careers are rarely straight lines!
 
 ## Current directions
 

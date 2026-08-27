@@ -7,6 +7,16 @@ subtitle: "Information, resources and unsolicited advice for students considerin
 
 I regularly supervise or co-supervise B.Sc., M.Sc. and Ph.D. students working on research topics in deep learning and related areas.
 
+### Opportunities
+
+Depending on the topic and current availability, thesis projects may offer opportunities to:
+
+- contribute to ongoing research projects at CILAB;
+- work on real-world problems and datasets;
+- collaborate with companies through external internships;
+- develop particularly strong results into scientific publications;
+- continue the research experience toward a Ph.D.
+
 ## Resources
 
 A few practical resources for students:
