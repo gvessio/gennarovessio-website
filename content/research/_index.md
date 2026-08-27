@@ -51,7 +51,7 @@ Despite these challenges, research is extraordinarily stimulating. Since embarki
 
 ## A small turning point
 
-I firmly believe that life is shaped by key moments—sometimes driven by unconscious choices—that can significantly alter our path. One such moment for me was receiving the Best Presentation Award at SFLA 2018 from Prof. Giovanna Castellano. The prize? A book on Fuzzy Logic by Lotfi Zadeh, which my pug later found surprisingly delicious.
+I firmly believe that life is shaped by key moments—sometimes driven by unconscious choices—that can significantly alter our path. One such moment for me was receiving the Best Presentation Award at SFLA 2018 from Prof. Giovanna Castellano. The prize? A book on Fuzzy Logic by Lotfi Zadeh, which my pug later found surprisingly delicious!
 
 Looking back, that moment marked the beginning of a new chapter in my academic journey. I still like to think that the best is yet to come.
 

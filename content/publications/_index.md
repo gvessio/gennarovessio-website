@@ -49,7 +49,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 ## 2022
 
 - Castellano, G., Vessio, G. **“A Deep Learning Approach to Clustering Visual Arts.”** *International Journal of Computer Vision*, 130(11), 2590–2605. [DOI / paper](https://doi.org/10.1007/s11263-022-01664-y)
-- Kaczmarek-Majer, K., Casalino, G., Castellano, G., et al., Vessio, G. **“PLENARY: Explaining black-box models in natural language through fuzzy linguistic summaries.”** *Information Sciences*, 614, 374–399. [DOI / paper](https://doi.org/10.1016/j.ins.2022.10.010)
+- Kaczmarek-Majer, K., Casalino, G., Castellano, G., Dominiak, M., Hryniewicz, O., Kamińska, O., Vessio, G., Díaz-Rodríguez, N. **“PLENARY: Explaining black-box models in natural language through fuzzy linguistic summaries.”** *Information Sciences*, 614, 374–399. [DOI / paper](https://doi.org/10.1016/j.ins.2022.10.010)
 - Testi, M., Ballabio, M., Frontoni, E., Iannello, G., Moccia, S., Soda, P., Vessio, G. **“MLOps: A Taxonomy and a Methodology.”** *IEEE Access*, 10, 63606–63618. [DOI / paper](https://doi.org/10.1109/ACCESS.2022.3181730)
 - Castellano, G., Digeno, V., Sansaro, G., Vessio, G. **“Leveraging Knowledge Graphs and Deep Learning for automatic art analysis.”** *Knowledge-Based Systems*, 248, 108859. [DOI / paper](https://doi.org/10.1016/j.knosys.2022.108859)
 - Moetesum, M., Diaz, M., Masroor, U., Siddiqi, I., Vessio, G. **“A survey of visual and procedural handwriting analysis for neuropsychological assessment.”** *Neural Computing and Applications*, 34, 9561–9578. [DOI / paper](https://doi.org/10.1007/s00521-022-07185-6)
