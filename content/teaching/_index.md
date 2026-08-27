@@ -7,12 +7,12 @@ subtitle: "Courses, thoughts for students, and a few recurring questions."
 ## 📚 Current courses
 
 ### 🧠 Deep Learning
-**M.Sc. in Data Science · since 2021/22**
+**M.Sc. in Data Science**
 
 Deep learning is still closer to alchemy than to chemistry—a blend of intuition, experimentation and a touch of magic. Yet it is precisely this “alchemy” that has made AI one of the most transformative technologies of our time. The course covers both theoretical foundations and practical applications of modern neural networks.
 
 ### 🤖 Computational Intelligence
-**B.Sc. in Computer Science · co-taught with Prof. Corrado Mencar · since 2023/24**
+**B.Sc. in Computer Science · co-taught with Prof. Corrado Mencar**
 
 The course focuses on intelligent systems capable of adapting, learning from experience and solving complex problems. My part concentrates on the fundamentals of neural networks and the building blocks of modern machine learning.
 
