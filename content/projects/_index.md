@@ -5,7 +5,7 @@ subtitle: "Selected projects I lead or contribute to."
 
 I like research projects when they create the conditions to test ideas outside a benchmark and, ideally, to build something that somebody can actually use.
 
-## Projects I lead
+## Projects I lead or have led
 
 ### VISTA — Visual Assistance from Drones for Roadside Rescue
 
@@ -34,9 +34,9 @@ A sequence of competitive high-performance computing projects supporting our res
 
 ### PON AIM — Computational Methods for Cultural Heritage
 
-**2019–2023**
+**2019–2023 · PON Attraction and International Mobility**
 
-My RTD-A position was funded through the European PON *Attraction and International Mobility* programme on the topic **Computational Methods for Cultural Heritage**. This project played an important role in shaping my research on AI and visual arts.
+My RTD-A position was funded through this programme, allowing me to develop a research line at the intersection of AI and cultural heritage that shaped much of my subsequent work on computer vision and visual arts.
 
 ## Projects I contribute to
 
