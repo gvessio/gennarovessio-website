@@ -38,7 +38,7 @@ In 2025 I was recognised as a **Distinguished Program Committee Member at ECML P
 
 Selected organisation roles include:
 
-- **PRESTIGE 2026** — Pattern Recognition and Computer Vision for eHeritage and Digital Humanities Workshop, ICPR 2026, Lyon
+- **[PRESTIGE 2026](https://sites.google.com/view/prestige-icpr2026/)** — Pattern Recognition and Computer Vision for eHeritage and Digital Humanities Workshop, ICPR 2026, Lyon
 - **ADV 2025** — International Workshop on Advances in Drone Vision, ICIAP 2025, Rome
 - **Applications of AI in the Analysis of Cultural and Artistic Heritage**, Special Session at MLSP 2025, Istanbul
 - **FAPER** — four editions of the International Workshop on Fine Art Pattern Extraction and Recognition (ICPR 2020; ICIAP 2021, 2023, 2025)
@@ -66,7 +66,7 @@ I have served as evaluator for research projects and outputs including **PRIN 20
 
 I regularly take part in public-engagement and science-communication activities on artificial intelligence and its applications, including seminars, public events, school initiatives and interviews.
 
-In 2025 I published the popular-science book **_Intelligenza artificiale per curiosi: una mini-guida scientifica per tutti_** with Edizioni Dedalo.
+In 2025 I published the popular-science book **[*Intelligenza artificiale per curiosi: una mini-guida scientifica per tutti*](https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html)** with Edizioni Dedalo.
 
 Over the years I have contributed to events and initiatives including *Il Libro Possibile*, *Art & Science across Italy*, *FameLab* and *La Notte della Ricerca*, and have given specialist lectures for professional associations, companies and public institutions.
 
