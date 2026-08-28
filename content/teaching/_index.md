@@ -21,6 +21,12 @@ The course focuses on intelligent systems capable of adapting, learning from exp
 
 This course bridges programming theory and practical software development. It emphasises core programming skills, computational thinking and problem solving, helping students turn abstract concepts into concrete implementations.
 
+## Other teaching
+
+Over the years I have also taught or co-taught **Big Data Management and Analysis**, **Computational Intelligence** at M.Sc. level, **Formal Methods for Security**, courses in **Computer Science / Information Processing Systems** at the School of Medicine, and **Java Programming Basics** at ITS Apulia Digital Maker.
+
+I also taught a doctoral course in **Deep Learning** (16 hours, 2 CFU) for the Ph.D. programme in Computer Science and Mathematics, and gave the doctoral seminar *“Learn the art (of getting published) and put it aside”* within the *Scientific Research Writing* series.
+
 ## What Computer Science is — and is not
 
 Where I live, there is often limited awareness of what Computer Science really is. It is frequently perceived as simply the “science of computers”, which can create misconceptions among prospective students and their families. In reality, Computer Science is fundamentally **computing science**.
@@ -30,13 +36,6 @@ If you enjoy programming but have little interest in theoretical foundations, co
 Although it is a relatively young discipline, Computer Science has reached a remarkable level of maturity. Its achievements are embedded in everyday life, and its methods increasingly intersect with those of other sciences.
 
 > **Tip for first-year students.** University life is very different from high school. Classes are larger, you are expected to work more independently, and the familiar rhythm of frequent assessments largely disappears. Do not fall into the “there is always time to catch up” trap. Attend lectures, keep your notes organised, study consistently rather than cramming, and actually do the exercises.
-
-
-## Other teaching
-
-Over the years I have also taught or co-taught **Big Data Management and Analysis**, **Computational Intelligence** at M.Sc. level, **Formal Methods for Security**, courses in **Computer Science / Information Processing Systems** at the School of Medicine, and **Java Programming Basics** at ITS Apulia Digital Maker.
-
-I also taught a doctoral course in **Deep Learning** (16 hours, 2 CFU) for the Ph.D. programme in Computer Science and Mathematics, and gave the doctoral seminar *“Learn the art (of getting published) and put it aside”* within the *Scientific Research Writing* series.
 
 ## 🤔 Computer Science or Computer Engineering?
 
