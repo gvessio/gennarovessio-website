@@ -68,6 +68,6 @@ I regularly take part in public-engagement and science-communication activities 
 
 In 2025 I published the popular-science book **[*Intelligenza artificiale per curiosi: una mini-guida scientifica per tutti*](https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html)** with Edizioni Dedalo.
 
-Over the years I have contributed to events and initiatives including *Il Libro Possibile*, *Art & Science across Italy*, *FameLab* and *La Notte della Ricerca*, and have given specialist lectures for professional associations, companies and public institutions.
+Over the years I have contributed to events and initiatives including *Il Libro Possibile*, *Libri nel Borgo Antico*, *Art & Science across Italy*, *FameLab* and *La Notte della Ricerca*, and have given specialist lectures for professional associations, companies and public institutions.
 
 I have also taught several editions of training activities on **graphometric signature analysis**, organised by the Italian Graphological Association and its local partners. This long-running collaboration grew out of my earlier research on explainable decision-support tools for forensic handwriting examination.
