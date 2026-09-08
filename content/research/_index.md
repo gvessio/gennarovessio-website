@@ -35,13 +35,15 @@ Despite these challenges, research is extraordinarily stimulating. Since embarki
 
 - ❤️ **Be passionate.** Without passion, surviving in the academic world is nearly impossible.
 
-- 💪 **Work hard, but work wisely.** Effort matters, but so does learning where to invest it. Not every idea, experiment or project deserves the same amount of time. Learn when to persist, when to change direction and when to stop.
+- 💪 **Work hard and stay enthusiastic.** Research can be frustrating, but enthusiasm and persistence matter. Keep working, stay curious, and trust the process: if you put in the effort, sooner or later something good will happen.
+
+- ✂️ **Know when to cut.** Not every idea, experiment or project deserves to be pursued indefinitely. Learn when to persist, but also when to stop, change direction or let an idea go. Time and attention are among a researcher's most valuable resources.
 
 - ❓ **Embrace doubt and uncertainty.** This is where research truly begins; without them, you are not really doing research. Be willing to question not only your own results, but also assumptions that others take for granted.
 
 - 🎯 **Choose the right topic.** Academia can be highly competitive and is often driven by quantitative metrics such as publications and citations. Working in an active area can increase visibility and opportunities, but do not confuse a hot topic with an important problem. Niche topics can also thrive when they address meaningful questions and are pursued with the right strategy.
 
-- 🌍 **Know the community.** Build relationships—they should know you, and you should know them. Research communities have their own paradigms, benchmarks, venues and standards; learn them well.
+- 🌍 **Know the community.** Build relationships—they should know you, and you should know them. Research communities have their own paradigms, benchmarks and venues; learn them well. They set the standards for what counts as good research in your field.
 
 - 🔭 **Question the paradigm.** As you gain experience, learn to question established assumptions. Sometimes progress comes not from improving the current approach, but from asking whether we are approaching the problem in the right way at all.
 
@@ -73,6 +75,6 @@ Despite these challenges, research is extraordinarily stimulating. Since embarki
 
 I firmly believe that life is shaped by key moments—sometimes driven by unconscious choices—that can significantly alter our path. One such moment for me was receiving the Best Presentation Award at SFLA 2018 from Prof. Giovanna Castellano. The prize? A book on Fuzzy Logic by Lotfi Zadeh, which my pug later found surprisingly delicious!
 
-Looking back, that moment marked the beginning of a new chapter in my academic journey. I still like to think that the best is yet to come.
+Looking back, that moment marked the beginning of a new chapter in my academic journey. I still like to think that the best is yet to come!
 
 {{< figure src="../images/sfla-2018.jpg" alt="SFLA 2018 Best Presentation Award" caption="SFLA 2018 — a small award, a book by Lotfi Zadeh, and an unexpectedly important turning point." class="content-photo sfla-photo" >}}

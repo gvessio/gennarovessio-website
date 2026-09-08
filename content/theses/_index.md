@@ -31,34 +31,46 @@ Doing a Ph.D. is a deeply transformative journey that shapes your intellectual i
 ### 🎓 Some tips for a successful Ph.D. thesis
 
 1. **Choose your topic wisely.** Pick something you love and value the expertise of the supervisor working on that topic.
-   - 🔥 **Prefer a hot topic** if you see the Ph.D. as the first step toward an academic career. Academia is highly competitive and often influenced by quantitative measures; a topic attracting significant interest may open more opportunities than an isolated niche.
+
+   - 🔥 **Prefer an active research area.** If you see the Ph.D. as the first step toward an academic career, working in an active research area with important open problems can provide more opportunities, collaborations, venues and visibility. But do not choose a topic simply because it is fashionable.
+
    - ⚖️ **Avoid extremes.** A very famous professor may have little time to supervise you closely; an overly isolated supervisor may lack the network and visibility needed to create opportunities.
 
 2. **Good ideas do not appear out of nowhere.**
+
    - 📜 Start with a very recent paper from a top journal or conference on your topic.
+
    - 🕵️ Trace the bibliography backwards through the Related Work until you reach foundational papers.
+
    - 🔄 Replicate the study and establish a solid baseline.
+
    - 🔍 Identify open issues, often discussed explicitly in conclusions and future work.
 
+   - 💡 Use this as a starting point, not a destination. As you gain experience, move from asking “How can I improve this work?” to “What important question is this literature failing to ask?”
+
 3. **Structure your thesis carefully.**
+
    - Think of it as an hourglass ⏳.
+
    - Start high-level: motivations, goals and background.
+
    - Narrow down: materials, methods and experiments, ensuring reproducibility.
+
    - End high-level again: limitations, implications and future directions.
 
-4. **Understand the purpose of a Ph.D. thesis.** It typically addresses one or more open problems within a research community and demonstrates both the strengths and limitations of the proposed approach through rigorous experimentation.
+4. **Understand the purpose of a Ph.D. thesis.** A Ph.D. is not only about solving one or more open problems. It should demonstrate that you can independently identify meaningful research questions, formulate hypotheses, design rigorous experiments and critically evaluate the resulting evidence.
 
-5. **Set a productive routine.** Some argue that successful people get up early and make their bed—a surprisingly good way to start a focused day!
+5. **Set a productive routine.** Research requires sustained concentration, so protect time for deep work. And yes, some argue that successful people get up early and make their bed—a surprisingly good way to start a focused day!
 
 6. **Last but not least: coffee ☕.** A Ph.D. student's best friend.
 
 ### 🎓 Some tips for a successful M.Sc. thesis
 
-The same principles apply, but in a more relaxed form. An M.Sc. thesis usually focuses on a single experimental study and requires less independence. For scientific or technological topics, it should ideally be experimental or implementation-oriented. At this stage, I generally recommend avoiding purely literature-based theses, which often lack the depth expected from a strong M.Sc. project.
+The same principles apply, but on a more focused scale. An M.Sc. thesis usually addresses a single experimental study or well-defined research question, with closer guidance from the supervisor. For scientific or technological topics, it should ideally be experimental or implementation-oriented. At this stage, I generally recommend avoiding purely literature-based theses, which often lack the depth expected from a strong M.Sc. project.
 
 ### 🎓 Some tips for a successful B.Sc. thesis
 
-Here, the same principles apply in an even more relaxed way. A B.Sc. thesis typically focuses on a single, well-defined task and requires limited independence. Think of it as a first step: an opportunity to develop fundamental research skills and prepare for future academic or professional challenges.
+Here, the same principles apply on an even smaller scale. A B.Sc. thesis typically focuses on a single, well-defined task, with substantial guidance from the supervisor. Think of it as a first step: an opportunity to develop fundamental research skills and prepare for future academic or professional challenges.
 
 ## 🎓 Well, I have a Ph.D.: now what?
 
@@ -67,21 +79,26 @@ Being a post-doc is often the most non-linear and uncertain part of the academic
 Ask yourself:
 
 - Is your supervisor influential?
-- Are there enough financial resources to fund your post-doc?
-- Is the historical period favourable for hiring at your university or in your country?
-- Have you become (almost) indispensable to your group's research activities?
 
-Only a small fraction of post-docs eventually secure a stable academic position. Going abroad and expanding your professional network can improve your chances. My advice? **Stay dynamic and proactive.** If you feel stuck—as if you are orbiting without moving forward—get out of your comfort zone. Sometimes a change of scenery is exactly the push you need.
+- Are there enough financial resources to fund your post-doc?
+
+- Is the historical period favourable for hiring at your university or in your country?
+
+- Are you becoming scientifically independent from your Ph.D. supervisor?
+
+- Is your research identity becoming recognizable? Can people associate your name with a particular problem, method or research direction?
+
+Permanent academic positions are scarce and highly competitive. Going abroad and expanding your professional network can improve your chances. My advice? **Stay dynamic and proactive.** If you feel stuck—as if you are orbiting without moving forward—get out of your comfort zone. Sometimes a change of scenery is exactly the push you need.
 
 ## 🎓 Well, I have an M.Sc. degree: now what?
 
-If you are young enough (unfortunately, age is a factor that cannot be ignored...) and still have that spark in your eyes ✨, you might consider a Ph.D.
+If research still gives you that spark in your eyes ✨, you might consider a Ph.D.
 
-Be prepared: you will watch friends get married, buy the car you wanted, earn more money and enjoy weekends without deadlines. But hey—you will become a “real” doctor! More importantly, a Ph.D. can give you a level of intellectual maturity and self-confidence that prepares you to face almost any challenge life throws at you.
+Be prepared: you will watch friends get married, buy the car you wanted, earn more money and enjoy weekends without deadlines. But hey—you will become a “real” doctor! More importantly, a Ph.D. can profoundly change the way you approach complex problems, uncertainty and independent learning.
 
 ## 🎓 Well, I have a B.Sc. degree: now what?
 
-If you are young enough, consider pursuing an M.Sc. degree. It can open new opportunities and give you a deeper understanding of your field.
+Consider pursuing an M.Sc. degree. It can open new opportunities and give you a deeper understanding of your field.
 
 That said, the Italian 3+2 university system remains a topic of lively debate. Personally, I think it could benefit from serious reconsideration—if not a complete overhaul—but that is a story for another day...
 
