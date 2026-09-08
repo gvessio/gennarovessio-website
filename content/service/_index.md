@@ -21,7 +21,7 @@ I regularly serve as a reviewer and Program Committee member for international c
 
 In 2026 I served as **Area Chair for NeurIPS**.
 
-Selected conferences include **AAAI, CVPR, ECCV, ACL, ECML PKDD, ECAI, WACV, ICPR, CBMS, IJCNN, ICDAR** and **IEEE VIS**.
+Selected conferences include **AAAI, CVPR, ECCV, ACL, ECML PKDD, ECAI, WACV, ICPR, CBMS, IJCNN** and **ICDAR**.
 
 I also regularly review for journals including **Nature, International Journal of Computer Vision, Pattern Recognition, Remote Sensing of Environment, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Biometrics, Behavior, and Identity Science, Artificial Intelligence in Medicine, Expert Systems with Applications, Information Sciences, Knowledge-Based Systems, Machine Learning, Heritage Science, Journal on Computing and Cultural Heritage**, and **International Journal on Document Analysis and Recognition**.
 
@@ -46,7 +46,7 @@ Selected organisation roles include:
 - **EAIS 2020**, Local Arrangement Chair
 - **DeepLearn Spring 2023**, Local Co-Chair
 
-The 2026 PRESTIGE workshop was born from the fusion of our previous FAPER and PatReCH activities: a small attempt to bring closely related communities together rather than keep creating neighbouring islands.
+The 2026 PRESTIGE workshop was born from the fusion of our previous FAPER and PatReCH activities: a small attempt to bring closely related communities together.
 
 ## Research evaluation
 

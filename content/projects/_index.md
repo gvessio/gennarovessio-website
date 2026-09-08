@@ -62,4 +62,4 @@ AI and data-driven methods for personalised healthy-food pathways against obesit
 
 Previous activities include **NEED — Next-Gen Digital Diagnostics**, a PNC-funded project on explainable and trustworthy AI for digital diagnostics; **MIAFF — Modello Integrato di Analisi dei Fabbisogni Formativi**, a PNRR project on training-needs analysis for small local authorities; **FAIR — Future Artificial Intelligence Research**, where I contributed to Spoke 6 on Symbiotic AI; and **GRINS — Growing Resilient, INclusive and Sustainable**, where I contributed to research on territorial sustainability.
 
-Earlier work also includes the **HAND** PRIN project on handwriting analysis against neuromuscular disease and a multidisciplinary **Horizon Europe Seeds** project on the digitisation and valorisation of written cultural heritage.
+Earlier work also includes the **HAND** PRIN project on handwriting analysis against neuromuscular diseases and a multidisciplinary **Horizon Europe Seeds** project on the digitisation and valorisation of written cultural heritage.

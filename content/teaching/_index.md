@@ -25,7 +25,7 @@ This course bridges programming theory and practical software development. It em
 
 Over the years I have also taught or co-taught **Big Data Management and Analysis**, **Computational Intelligence** at M.Sc. level, **Formal Methods for Security**, courses in **Computer Science / Information Processing Systems** at the School of Medicine, and **Java Programming Basics** at ITS Apulia Digital Maker.
 
-I also taught a doctoral course in **Deep Learning** (16 hours, 2 CFU) for the Ph.D. programme in Computer Science and Mathematics, and gave the doctoral seminar *“Learn the art (of getting published) and put it aside”* within the *Scientific Research Writing* series.
+I also taught a doctoral course in **Deep Learning** for the Ph.D. programme in Computer Science and Mathematics, and gave the doctoral seminar *“Learn the art (of getting published) and put it aside”* within the *Scientific Research Writing* series.
 
 ## What Computer Science is — and is not
 
@@ -43,9 +43,9 @@ Although it is a relatively young discipline, Computer Science has reached a rem
 
 **Long answer:** the distinction is primarily historical. The two programmes originate from different academic communities, each with its own traditions and academic culture. Their curricula largely overlap and their career opportunities are very similar, but there are differences worth highlighting.
 
-Computer Science programmes tend to place greater emphasis on programming, programming languages and related topics, often with a stronger practical component. Students typically view programming as an end in itself, progressing from theory to practice while developing a scientific mindset.
+Computer Science programmes tend to place greater emphasis on programming, programming languages and related topics. Students typically engage with programming as a subject of study in its own right, moving between theory and implementation while developing a scientific mindset centred on abstraction, formalisation and computational thinking.
 
-Computer Engineering programmes are generally broader and often include subjects beyond programming. Programming is more often viewed as a means to an end, with a stronger engineering mindset in which practical constraints may take precedence over abstraction.
+Computer Engineering programmes are generally broader and often include subjects beyond programming. Programming is more often viewed as a means to an end: a tool for designing and building systems within real-world constraints. The emphasis is therefore more strongly engineering-oriented, with greater attention to integration, performance, resources and practical trade-offs.
 
 Both paths provide a solid foundation. Success ultimately depends on curiosity, commitment and the willingness to go beyond the basics. There is still a widespread misconception outside academia that computer engineers are somehow “better” than computer scientists. This is simply not true.
 
