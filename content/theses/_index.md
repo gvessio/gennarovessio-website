@@ -88,11 +88,11 @@ Ask yourself:
 
 - Is your research identity becoming recognizable? Can people associate your name with a particular problem, method or research direction?
 
-Permanent academic positions are scarce and highly competitive. Going abroad and expanding your professional network can improve your chances. My advice? **Stay dynamic and proactive.** If you feel stuck—as if you are orbiting without moving forward—get out of your comfort zone. Sometimes a change of scenery is exactly the push you need.
+Only a small fraction of post-docs eventually secure a stable academic position. Going abroad and expanding your professional network can improve your chances. My advice? **Stay dynamic and proactive.** If you feel stuck—as if you are orbiting without moving forward—get out of your comfort zone! Sometimes a change of scenery is exactly the push you need.
 
 ## 🎓 Well, I have an M.Sc. degree: now what?
 
-If research still gives you that spark in your eyes ✨, you might consider a Ph.D.
+If you are young enough (unfortunately, age is a factor that cannot be ignored...) and still have that spark in your eyes ✨, you might consider a Ph.D.
 
 Be prepared: you will watch friends get married, buy the car you wanted, earn more money and enjoy weekends without deadlines. But hey—you will become a “real” doctor! More importantly, a Ph.D. can profoundly change the way you approach complex problems, uncertainty and independent learning.
 
