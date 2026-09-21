@@ -46,7 +46,7 @@ Selected organisation roles include:
 - **EAIS 2020**, Local Arrangement Chair
 - **DeepLearn Spring 2023**, Local Co-Chair
 
-The 2026 PRESTIGE workshop was born from the fusion of our previous FAPER and PatReCH activities: a small attempt to bring closely related communities together.
+The 2026 PRESTIGE workshop was born from the fusion of our FAPER workshop and the PatReCH workshop: a small attempt to bring closely related communities together.
 
 ## Research evaluation
 
