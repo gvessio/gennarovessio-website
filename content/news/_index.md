@@ -1,0 +1,56 @@
+---
+title: "News"
+description: "News, appointments, awards, and other updates."
+---
+
+{{ define "main" }}
+
+<section class="home-section">
+  <div class="container section-grid">
+    <div>
+      <p class="section-kicker">News</p>
+      <h1>News & updates</h1>
+    </div>
+
+    <div class="news-list">
+
+      <article>
+        <time>Sep 2026</time>
+        <p>Our paper “Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design” was accepted at the <strong>NeurIPS 2026 Main Track</strong>.</p>
+      </article>
+
+      <article>
+        <time>Sep 2026</time>
+        <p>I was appointed <strong>Associate Professor</strong> at the University of Bari Aldo Moro.</p>
+      </article>
+
+      <article>
+        <time>Aug 2026</time>
+        <p>I received an <strong>IAPR Distinction Award</strong>, together with TC19 Vice Chair Guillaume Caron, in recognition of our strategic leadership of IAPR TC19. The award was presented at ICPR 2026 in Lyon.</p>
+      </article>
+
+      <article>
+        <time>May 2026</time>
+        <p>I was appointed <strong>Area Chair for NeurIPS 2026</strong>.</p>
+      </article>
+
+      <article>
+        <time>Feb 2025</time>
+        <p>I was appointed <strong>Chair of IAPR Technical Committee 19</strong> on Computer Vision for Cultural Heritage Applications.</p>
+      </article>
+
+      <article>
+        <time>Jan 2025</time>
+        <p>My popular-science book, <strong><a href="https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html" target="_blank" rel="noopener"><em>Intelligenza artificiale per curiosi: una mini-guida scientifica per tutti</em></a></strong>, was published by Edizioni Dedalo.</p>
+      </article>
+
+      <article>
+        <time>Nov 2024</time>
+        <p>The <strong>VISTA</strong> project with the Italian Ministry of Infrastructure and Transport started, exploring the use of drones to improve roadside emergency response.</p>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+{{ end }}
