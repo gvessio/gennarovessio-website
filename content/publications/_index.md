@@ -16,7 +16,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 - Testi, M., Fiorentino, M.C., Ballabio, M., Visani, G., Ciccozzi, M., Frontoni, E., Moccia, S., Vessio, G. **“FetalMLOps: Operationalizing Machine Learning Models for Standard Fetal Ultrasound Plane Classification.”** *Medical & Biological Engineering & Computing*, 64(1), 75–90. [DOI / paper](https://doi.org/10.1007/s11517-025-03436-5)
 - Brescia, F., Alemán Santana, B.E., Diaz, M., Vessio, G., Ferrer, M.A., Castellano, G. **“Integrating robotic kinematics and dynamics with online handwriting features for dysgraphia classification.”** *Biomedical Signal Processing and Control*, 112, 108560. [DOI / paper](https://doi.org/10.1016/j.bspc.2025.108560)
 - De Marinis, P., Iammarino, A., Vessio, G., Castellano, G. **“WeedDiffusion: A Dual-Branch Synthetic Augmentation Framework for Weed Mapping.”** *ICPR 2026*, LNCS 16813, 545–559. [DOI / paper](https://doi.org/10.1007/978-3-032-31583-0_36)
-- Fanelli, N., De Marinis, P., Scaringi, R., Cetinic, E., Vessio, G., Castellano, G. **“Understanding How MLLMs Describe Artworks Using Token Activation Maps.”** *ICPR 2026 Workshops*. [arXiv / paper](https://arxiv.org/abs/2606.27947)
+<!-- - Fanelli, N., De Marinis, P., Scaringi, R., Cetinic, E., Vessio, G., Castellano, G. **“Understanding How MLLMs Describe Artworks Using Token Activation Maps.”** *ICPR 2026 Workshops*. [arXiv / paper](https://arxiv.org/abs/2606.27947) -->
 <!-- - De Marinis, P., Cherubini, S., Arcangeli, P., Palombo, N., Iurato, V., Castellano, G., Angelillo, M.T., Vessio, G. **“Towards Real-Time Drone Vision for Road Safety.”** *ICPR 2026 Workshops*. [DBLP record](https://dblp.org/pid/151/5820) -->
 
 ## 2025
