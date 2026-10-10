@@ -27,6 +27,10 @@ Over the years I have also taught or co-taught **Big Data Management and Analysi
 
 I also taught a doctoral course in **Deep Learning** for the Ph.D. programme in Computer Science and Mathematics, and gave the doctoral seminar *“Learn the art (of getting published) and put it aside”* within the *Scientific Research Writing* series.
 
+## Institutional service
+
+Since October 2026, I have served as **Student Orientation Coordinator**, coordinating orientation activities and initiatives for prospective students and schools. I am also **co-responsible for organising and managing the Department's entrance assessment tests**.
+
 ## What Computer Science is — and is not
 
 Where I live, there is often limited awareness of what Computer Science really is. It is frequently perceived as simply the “science of computers”, which can create misconceptions among prospective students and their families. In reality, Computer Science is fundamentally **computing science**.

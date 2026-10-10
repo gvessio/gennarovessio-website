@@ -1,6 +1,6 @@
 ---
 title: "Service"
-subtitle: "Scientific and institutional service, editorial work, events and outreach."
+subtitle: "Scientific service, editorial work, events and outreach."
 ---
 
 I enjoy the community side of research: reviewing, organising events, building small communities around emerging topics, and occasionally discovering that organising a workshop requires almost as much debugging as writing code.
@@ -61,13 +61,6 @@ I have served as evaluator for research projects and outputs including **PRIN 20
 - **FedCSIS Distinction Award**, 2023
 - **NVIDIA GPU Grant**, 2018
 - **SFLA Best Presentation**, 2018
-
-## Institutional service
-
-At the Department of Computer Science, University of Bari Aldo Moro, I serve as:
-
-- **Student Orientation Coordinator** (2026–present), coordinating orientation activities and initiatives promoting the Department's degree programmes.
-- **Entrance Assessment Tests Co-Coordinator** (2020–present), jointly responsible for organising and managing the assessment tests of incoming students' foundational knowledge.
 
 ## Outreach
 
