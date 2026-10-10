@@ -1,6 +1,6 @@
 ---
 title: "Service"
-subtitle: "Scientific community service, reviewing, editorial work and events."
+subtitle: "Scientific and institutional service, editorial work, events and outreach."
 ---
 
 I enjoy the community side of research: reviewing, organising events, building small communities around emerging topics, and occasionally discovering that organising a workshop requires almost as much debugging as writing code.
@@ -62,11 +62,20 @@ I have served as evaluator for research projects and outputs including **PRIN 20
 - **NVIDIA GPU Grant**, 2018
 - **SFLA Best Presentation**, 2018
 
+## Institutional service
+
+At the Department of Computer Science, University of Bari Aldo Moro, I serve as:
+
+- **Student Orientation Coordinator** (2026–present), coordinating orientation activities and initiatives promoting the Department's degree programmes.
+- **Entrance Assessment Tests Co-Coordinator** (2020–present), jointly responsible for organising and managing the assessment tests of incoming students' foundational knowledge.
+
 ## Outreach
 
 I regularly take part in public-engagement and science-communication activities on artificial intelligence and its applications, including seminars, public events, school initiatives and interviews.
 
 In 2025 I published the popular-science book **[*Intelligenza artificiale per curiosi: una mini-guida scientifica per tutti*](https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html)** with Edizioni Dedalo.
+
+I have also contributed popular-science articles to *Sapere* and *SapereScienza*, both published by Edizioni Dedalo. Since October 2026, I have been writing **Pensiero Artificiale**, a regular column in *Sapere* exploring artificial intelligence and the broader questions it raises.
 
 Over the years I have contributed to events and initiatives including *Il Libro Possibile*, *Libri nel Borgo Antico*, *Art & Science across Italy*, *FameLab* and *La Notte della Ricerca*, and have given specialist lectures for professional associations, companies and public institutions.
 
