@@ -9,6 +9,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 
 ## 2026
 
+- Scaringi, R., Sierra-Múnera, A., Vessio, G., Castellano, G., Krestel, R. **“KARAMEL: Knowledge-Aware Ranking for Multimodal Entity Linking in the Arts via Heterogeneous Graphs.”** *Machine Learning*, 115, 243. [DOI / paper](https://doi.org/10.1007/s10994-026-07172-1)
 - De Marinis, P., Vessio, G., Castellano, G. **“Take a peek: Efficient encoder adaptation for few-shot semantic segmentation via LoRA.”** *Pattern Recognition Letters*, 207, 47–54. [DOI / paper](https://doi.org/10.1016/j.patrec.2026.06.003)
 - Zaza, G., Scaringi, R., Vessio, G., Castellano, G. **“FuzzyGNN: a graph neural network framework for enhanced fuzzy modeling.”** *Neural Computing and Applications*, 38, 390. [DOI / paper](https://doi.org/10.1007/s00521-026-11967-7)
 - Andrisani, A., Vessio, G., Sgobba, F., Di Lena, F., Santamaria, L.A., Castellano, G. **“Modeling and benchmarking quantum optical neurons for efficient neural computation.”** *PLoS One*, 21(3), e0341545. [DOI / paper](https://doi.org/10.1371/journal.pone.0341545)
@@ -77,7 +78,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 ## Books & selected research outputs
 
 - Vessio, G. *Intelligenza artificiale per curiosi. Una mini-guida scientifica per tutti.* Edizioni Dedalo, 2025. [Publisher](https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html)
-- Scaringi, R., Sierra Munera, A., Vessio, G., Castellano, G., Krestel, R. **WikiMuSA: Wikidata-based Multimodal Semantic data for Art**, 2026. [Dataset](https://doi.org/10.5281/zenodo.23019880)
+- Scaringi, R., Sierra-Múnera, A., Vessio, G., Castellano, G., Krestel, R. **WikiMuSA: Wikidata-based Multimodal Semantic data for Art**, 2026. [Dataset](https://doi.org/10.5281/zenodo.23019880)
 - Fanelli, N., Vessio, G., Castellano, G. **WikiFragments**, 2026. [Dataset](https://huggingface.co/datasets/cilabuniba/wikifragments)
 - Canistro, F., De Marinis, P., Vessio, G., Castellano, G. **High-Resolution RGB Images and Corresponding Masks of Agricultural Fields**, 2024. [Dataset](https://doi.org/10.5281/zenodo.12607112)
 - Castellano, G., Digeno, V., Sansaro, G., Scaringi, R., Vessio, G. **ArtGraph (Version 2.0)**, 2023. [Dataset](https://doi.org/10.5281/zenodo.8172374)
