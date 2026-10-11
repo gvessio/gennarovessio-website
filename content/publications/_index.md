@@ -77,6 +77,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 ## Books & selected research outputs
 
 - Vessio, G. *Intelligenza artificiale per curiosi. Una mini-guida scientifica per tutti.* Edizioni Dedalo, 2025. [Publisher](https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html)
+- Scaringi, R., Sierra Munera, A., Vessio, G., Castellano, G., Krestel, R. **WikiMuSA: Wikidata-based Multimodal Semantic data for Art**, 2026. [Dataset](https://doi.org/10.5281/zenodo.23019880)
 - Fanelli, N., Vessio, G., Castellano, G. **WikiFragments**, 2026. [Dataset](https://huggingface.co/datasets/cilabuniba/wikifragments)
 - Canistro, F., De Marinis, P., Vessio, G., Castellano, G. **High-Resolution RGB Images and Corresponding Masks of Agricultural Fields**, 2024. [Dataset](https://doi.org/10.5281/zenodo.12607112)
 - Castellano, G., Digeno, V., Sansaro, G., Scaringi, R., Vessio, G. **ArtGraph (Version 2.0)**, 2023. [Dataset](https://doi.org/10.5281/zenodo.8172374)
