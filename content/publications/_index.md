@@ -75,7 +75,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 - Impedovo, D., Pirlo, G., Vessio, G. **“Dynamic Handwriting Analysis for Supporting Earlier Parkinson's Disease Diagnosis.”** *Information*, 9(10), 247. [DOI / paper](https://doi.org/10.3390/info9100247)
 - Bianchi, A., Pizzutilo, S., Vessio, G. **“An ASM-based Characterisation of Starvation-free Systems.”** *International Journal of Parallel, Emergent and Distributed Systems*, 33(1), 35–51. [DOI / paper](https://doi.org/10.1080/17445760.2017.1288808)
 
-## Books & selected research outputs
+## Book & selected research outputs
 
 - Vessio, G. *Intelligenza artificiale per curiosi. Una mini-guida scientifica per tutti.* Edizioni Dedalo, 2025. [Publisher](https://edizionidedalo.it/collane/collane-attive/la-scienza-e-facile/intelligenza-artificiale-per-curiosi.html)
 - Scaringi, R., Sierra-Múnera, A., Vessio, G., Castellano, G., Krestel, R. **WikiMuSA: Wikidata-based Multimodal Semantic data for Art**, 2026. [Dataset](https://doi.org/10.5281/zenodo.23019880)
