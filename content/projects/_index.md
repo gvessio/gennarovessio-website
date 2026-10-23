@@ -41,7 +41,7 @@ My RTD-A position was funded through this programme, allowing me to develop a re
 ## Projects I contribute to
 
 
-### AMICA — Intelligent Assistance for Active Ageing
+### AMICA
 
 **2026–2027 · Italian Ministry of Health · FSC 2014–2020**
 
