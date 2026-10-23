@@ -40,23 +40,30 @@ My RTD-A position was funded through this programme, allowing me to develop a re
 
 ## Projects I contribute to
 
+
+### AMICA — Intelligent Assistance for Active Ageing
+
+**2026–2027 · Italian Ministry of Health · FSC 2014–2020**
+
+Research on AI-based assistance for active and healthy ageing in indoor and outdoor environments, with a focus on technologies supporting older adults' autonomy and well-being.
+
 ### bioTIMBRE
 
-**2024–2027 · Spanish national research project**
+**2024–2027 · Spanish Ministry of Science, Innovation and Universities**
 
 Research on robust hand-movement biometrics through computational and robotic methods, coordinated by the Universidad de Las Palmas de Gran Canaria.
 
 ### EDIH4DT
 
-**2024–2026 · European Digital Innovation Hub**
+**2024–2026 · Italian Ministry of Enterprises and Made in Italy · PNRR**
 
-Digital transformation activities for public administrations and companies.
+Digital transformation activities for public administrations and companies within the European Digital Innovation Hubs initiative.
 
 ### SAFETY
 
-**2024–2026 · Accordi per l'Innovazione**
+**2024–2026 · Italian Ministry of Enterprises and Made in Italy · PNRR**
 
-AI and data-driven methods for personalised healthy-food pathways against obesity.
+AI and data-driven methods for personalised healthy-food pathways against obesity, funded through the Accordi per l'Innovazione programme.
 
 ## Earlier projects
 
