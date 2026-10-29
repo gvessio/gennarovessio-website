@@ -19,7 +19,7 @@ I am also affiliated with **CINI-AIIS**, **CITEL**, **CEDITH** and the **Gruppo 
 
 I regularly serve as a reviewer and Program Committee member for international conferences in artificial intelligence, machine learning, computer vision and pattern recognition.
 
-In 2026 I served as **Area Chair for NeurIPS**.
+In 2026 I served as **Area Chair for NeurIPS**. I am also serving as an **Action Editor for the ECML PKDD 2027 Journal Track**, associated with the Springer Nature journals *Machine Learning* and *Data Mining and Knowledge Discovery*.
 
 Selected conferences include **AAAI, CVPR, ECCV, ACL, ECML PKDD, ECAI, WACV, ICPR, CBMS, IJCNN**, and **ICDAR**.
 
