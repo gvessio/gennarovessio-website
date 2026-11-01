@@ -7,8 +7,13 @@ Below is a **selected** list of publications that I consider particularly repres
 
 For a complete bibliographic record, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=KyQe9EgAAAAJ) and [ORCID](https://orcid.org/0000-0002-0883-2691).
 
+## 2027
+
+- Fanelli, N., Vessio, G., Castellano, G. **“ArtSeek: Deep Artwork Understanding via Multimodal In-Context Reasoning and Late Interaction Retrieval.”** *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027)*, 2027 (to appear). [arXiv](https://arxiv.org/abs/2507.21917)
+
 ## 2026
 
+- De Marinis, P., Kaymak, U., Brussee, R., Vessio, G., Castellano, G. **“Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design.”** *Advances in Neural Information Processing Systems (NeurIPS 2026)*, 2026 (to appear). [arXiv](https://arxiv.org/abs/2511.18163)
 - Scaringi, R., Sierra-Múnera, A., Vessio, G., Castellano, G., Krestel, R. **“KARAMEL: Knowledge-Aware Ranking for Multimodal Entity Linking in the Arts via Heterogeneous Graphs.”** *Machine Learning*, 115, 243. [DOI / paper](https://doi.org/10.1007/s10994-026-07172-1)
 - De Marinis, P., Vessio, G., Castellano, G. **“Take a peek: Efficient encoder adaptation for few-shot semantic segmentation via LoRA.”** *Pattern Recognition Letters*, 207, 47–54. [DOI / paper](https://doi.org/10.1016/j.patrec.2026.06.003)
 - Zaza, G., Scaringi, R., Vessio, G., Castellano, G. **“FuzzyGNN: a graph neural network framework for enhanced fuzzy modeling.”** *Neural Computing and Applications*, 38, 390. [DOI / paper](https://doi.org/10.1007/s00521-026-11967-7)
@@ -26,7 +31,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 - Loconte, L., Mari, A., Gala, G., Peharz, R., de Campos, C., Quaeghebeur, E., Vessio, G., Vergari, A. **“What is the Relationship between Tensor Factorizations and Circuits (and How Can We Exploit it)?”** *Transactions on Machine Learning Research*, 2025. **Featured & J2C certified.** [OpenReview / paper](https://openreview.net/forum?id=Y7dRmpGiHj)
 - Scaringi, R., Fiameni, G., Vessio, G., Castellano, G. **“GraphCLIP: Image-graph contrastive learning for multimodal artwork classification.”** *Knowledge-Based Systems*, 310, 112857. [DOI / paper](https://doi.org/10.1016/j.knosys.2024.112857)
 - De Marinis, P., Fanelli, N., Scaringi, R., Colonna, E., Fiameni, G., Vessio, G., Castellano, G. **“Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts.”** *ECAI 2025*, 4016–4023. [DOI / paper](https://doi.org/10.3233/FAIA251289)
-- Fanelli, N., Vessio, G., Castellano, G. **“I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting.”** *WACV 2025*. **IEEE CIS Italy Chapter Best Paper — Honorable Mention.** [arXiv / paper](https://arxiv.org/search/?query=%22I+Dream+My+Painting%22&searchtype=all)
+- Fanelli, N., Vessio, G., Castellano, G. **“I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting.”** *WACV 2025*. **IEEE CIS Italy Chapter Best Paper — Honorable Mention.** [arXiv / paper](https://arxiv.org/abs/2411.19050)
 - Diaz, M., Ferrer, M.A., Quintana, J.J., Wolniakowski, A., Trochimczuk, R., Miatliuk, K., Castellano, G., Vessio, G. **“Neural network modelling of kinematic and dynamic features for signature verification.”** *Pattern Recognition Letters*, 187, 130–136. [DOI / paper](https://doi.org/10.1016/j.patrec.2024.11.021)
 - Porro, R., Ercole, T., Pipitò, G., Vessio, G., Loglisci, C. **“Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns.”** *Journal of Intelligent Information Systems*, 63(1), 135–159. [DOI / paper](https://doi.org/10.1007/s10844-024-00883-8)
 

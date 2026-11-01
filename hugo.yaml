@@ -6,7 +6,7 @@ disableKinds:
   - term
 
 params:
-  description: "Academic website of Gennaro Vessio, Assistant Professor of Computer Science at the University of Bari Aldo Moro."
+  description: "Academic website of Gennaro Vessio, Associate Professor of Computer Science at the University of Bari Aldo Moro. Research in deep learning, computer vision, and multimodal AI."
   author: "Gennaro Vessio"
   email: "gennaro.vessio@uniba.it"
   scholar: "https://scholar.google.com/citations?hl=en&user=KyQe9EgAAAAJ"
