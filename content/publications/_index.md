@@ -14,6 +14,7 @@ For a complete bibliographic record, see [Google Scholar](https://scholar.google
 ## 2026
 
 - De Marinis, P., Kaymak, U., Brussee, R., Vessio, G., Castellano, G. **“Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design.”** *Advances in Neural Information Processing Systems (NeurIPS 2026)*, 2026 (to appear). [arXiv](https://arxiv.org/abs/2511.18163)
+- Manco, F., Rinaldi, I., Anglani, R., Lella, E., Castellano, G., Vessio, G. **“Unsupervised emotion pattern discovery in long-form speech via acoustic clustering and language model interpretation.”** *Multimedia Tools and Applications*, 85, 869. [DOI / paper](https://doi.org/10.1007/s11042-026-21994-0)
 - Scaringi, R., Sierra-Múnera, A., Vessio, G., Castellano, G., Krestel, R. **“KARAMEL: Knowledge-Aware Ranking for Multimodal Entity Linking in the Arts via Heterogeneous Graphs.”** *Machine Learning*, 115, 243. [DOI / paper](https://doi.org/10.1007/s10994-026-07172-1)
 - De Marinis, P., Vessio, G., Castellano, G. **“Take a peek: Efficient encoder adaptation for few-shot semantic segmentation via LoRA.”** *Pattern Recognition Letters*, 207, 47–54. [DOI / paper](https://doi.org/10.1016/j.patrec.2026.06.003)
 - Zaza, G., Scaringi, R., Vessio, G., Castellano, G. **“FuzzyGNN: a graph neural network framework for enhanced fuzzy modeling.”** *Neural Computing and Applications*, 38, 390. [DOI / paper](https://doi.org/10.1007/s00521-026-11967-7)
